@@ -1,0 +1,15 @@
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\bin\Debug\net6.0\calculoMedia.exe
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\bin\Debug\net6.0\calculoMedia.deps.json
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\bin\Debug\net6.0\calculoMedia.runtimeconfig.json
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\bin\Debug\net6.0\calculoMedia.dll
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\bin\Debug\net6.0\calculoMedia.pdb
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.csproj.AssemblyReference.cache
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.AssemblyInfoInputs.cache
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.AssemblyInfo.cs
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.csproj.CoreCompileInputs.cache
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.dll
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\refint\calculoMedia.dll
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.pdb
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\calculoMedia.genruntimeconfig.cache
+C:\Users\Flavio\Documents\GitHub\calculoMedia\calculoMedia\calculoMedia\obj\Debug\net6.0\ref\calculoMedia.dll
